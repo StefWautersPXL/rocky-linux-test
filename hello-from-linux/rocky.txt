@@ -1,0 +1,3 @@
+[stef@localhost hello from rocky!]$ cat /etc/rocky-release
+Rocky Linux release 10.1 (Red Quartz)
+( i even needed to install tab completion)

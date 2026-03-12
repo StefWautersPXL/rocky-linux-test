@@ -1,0 +1,38 @@
+          __wgliliiligw_,
+       _williiiiiiliilililw,
+     _%iiiiiilililiiiiiiiiiii_
+   .Qliiiililiiiiiiililililiilm.
+  _iiiiiliiiiiililiiiiiiiiiiliil,
+ .lililiiilililiiiilililililiiiii,
+_liiiiiiliiiiiiiliiiiiF{iiiiiilili,
+jliililiiilililiiili@`  ~ililiiiiiL
+iiiliiiiliiiiiiili>`      ~liililii
+liliiiliiilililii`         -9liiiil
+iiiiiliiliiiiii~             "4lili
+4ililiiiiilil~|      -w,       )4lf
+-liiiiililiF'       _liig,       )'
+ )iiiliii@`       _QIililig,
+  )iiii>`       .Qliliiiililw
+   )<>~       .mliiiiiliiiiiil,
+            _gllilililiililii~
+           giliiiiiiiiiiiiT`
+          -^~lilili@~~'[1G[18A[39Cstef@localhost
+[39C--------------
+[39COS: Rocky Linux 10.1 (Red Quartz) x86_64
+[39CHost: VMware Virtual Platform
+[39CKernel: Linux 6.12.0-124.40.1.el10_1.x86_64
+[39CUptime: 1 hour, 37 mins
+[39CPackages: 406 (rpm)
+[39CShell: bash 5.2.26
+[39CDisplay (Virtual-1): 1280x800
+[39CTerminal: 
+[39CCPU: 2 x AMD Ryzen 5 PRO 230 (2) @ 3.49 GHz
+[39CGPU: VMware SVGA II Adapter
+[39CMemory: 472.46 MiB / 1.63 GiB (28%)
+[39CSwap: 0 B / 2.00 GiB (0%)
+[39CDisk (/): 1.70 GiB / 16.93 GiB (10%) - xfs
+[39CLocal IP (ens160): 192.168.112.136/24
+[39CLocale: nl_BE.UTF-8
+[39C
+[39C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[39C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
